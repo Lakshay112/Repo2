@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7E9C-BA08
+
+ Directory of C:\Users\WBL\Desktop\ProjectGit
+
+03/05/2019  10:49 AM    <DIR>          .
+03/05/2019  10:49 AM    <DIR>          ..
+03/05/2019  10:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  757,895,626,752 bytes free
